@@ -1,0 +1,24 @@
+e2e694b (HEAD -> main, origin/main, origin/HEAD) HEAD@{0}: checkout: moving from b7b478b278c00e8a366ad8f44500571d25af2b47 to main
+b7b478b (origin/xdxd, xdxd) HEAD@{1}: commit: xD
+e2bad36 HEAD@{2}: checkout: moving from 739c2e55fd2711afdcc1b81efe3159d862ce5596 to e2bad36037efe334f4d44e16f5d8cad5e8b724ed
+739c2e5 (origin/deathedHeadBranch, deathedHeadBranch) HEAD@{3}: commit: deathedHeadBranch
+6c5f8d8 HEAD@{4}: checkout: moving from main to 6c5f8d8fd935581551f315035d8451183adc1c6e
+e2e694b (HEAD -> main, origin/main, origin/HEAD) HEAD@{5}: merge hotfix: Merge made by the 'ort' strategy.
+11560bf (tag: v1.1) HEAD@{6}: checkout: moving from hotfix to main
+2a69a55 (origin/tests, tests, hotfix) HEAD@{7}: checkout: moving from tests to hotfix
+2a69a55 (origin/tests, tests, hotfix) HEAD@{8}: commit: dsad
+11560bf (tag: v1.1) HEAD@{9}: checkout: moving from main to tests
+11560bf (tag: v1.1) HEAD@{10}: merge tests: Fast-forward
+c7c2c9f HEAD@{11}: checkout: moving from tests to main
+11560bf (tag: v1.1) HEAD@{12}: commit: Kant Rozprawa
+6c5f8d8 HEAD@{13}: commit: Lorem ipsum
+c7c2c9f HEAD@{14}: checkout: moving from main to tests
+c7c2c9f HEAD@{15}: merge personal_details: Merge made by the 'ort' strategy.
+b6fc9d8 HEAD@{16}: checkout: moving from personal_details to main
+c3633cd (tag: v1.0, origin/personal_details, personal_details) HEAD@{17}: commit: E-mail adress
+42eb9e5 HEAD@{18}: commit: Index number
+e2bad36 HEAD@{19}: commit: First name and last name
+7b48462 HEAD@{20}: checkout: moving from main to personal_details
+b6fc9d8 HEAD@{21}: commit: First name and last name
+85ed8f1 HEAD@{22}: commit: First name and last name
+7b48462 HEAD@{23}: clone: from https://github.com/tomand94/testowe
